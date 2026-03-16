@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Captain's Guide to Fine Hat Hides"
-date: "2026-03-15"
+date: "2026-03-15 13:00 -0500"
 categories: [AI]
 tags: [generated, AI]
 time: "13:00 -0500"
