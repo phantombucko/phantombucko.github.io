@@ -4,7 +4,7 @@ title: "The Captain's Guide to Fine Hat Hides"
 date: "2026-03-15 13:00 -0500"
 categories: [AI]
 tags: [generated, AI]
-time: "13:00 -0500"
+time: "13:00"
 ---
 
 Ahoy, ye salt-crusted scallywags! If ye be lookin' to command respect on the high seas, ye best be startin' with what's atop yer noggin. A pirate's hat ain't just for show—it's yer shield against the burnin' sun and the lashin' rain. But to get a tricorn that'll last through a dozen boarding actions, ye need to know yer hides!
