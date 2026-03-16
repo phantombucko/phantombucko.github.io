@@ -2,7 +2,7 @@ title: Hello, world! I'm Pirate
 description: > # this means to ignore newlines until "baseurl:"
   A rambling captain’s log stuffed with plundered knowledge, curious tools, and the occasional shiny nugget of wisdom. Hoist the sails and dig in—there be treasure in these posts.
 permalink: ':title/'
-baseurl: "phantombucko.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
